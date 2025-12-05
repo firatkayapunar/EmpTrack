@@ -23,7 +23,7 @@ Sistem aşağıdaki temel fonksiyonları eksiksiz biçimde sunmaktadır:
 
 Uygulama iki ana bileşenden oluşmaktadır:
 
-- **Backend (API)**: ASP.NET Core Web API altyapısında geliştirilmiş; **Clean Architecture** prensiplerine uygun şekilde ayrıştırılmış, **Screaming Architecture** yaklaşımıyla feature-based olarak kurgulanmış, **CQRS + MediatR** pattern kullanan ve **JWT** tabanlı güvenlik mimarisiyle desteklenen bir yapıdadır.
+- **Backend (API)**: ASP.NET Core Web API altyapısında geliştirilmiş; **Clean Architecture** prensiplerine uygun şekilde ayrıştırılmış, **Screaming Architecture** yaklaşımıyla feature-based olarak kurgulanmış, **CQRS + Mediator** pattern kullanan ve **JWT** tabanlı güvenlik mimarisiyle desteklenen bir yapıdadır.
 - **Frontend (UI)**: React tabanlı modern bir **Single Page Application (SPA)** olarak tasarlanmış; **component-based** mimari yaklaşımla yapılandırılmış, merkezi bir **API service layer** üzerinden backend ile entegre çalışan ve **Context API** tabanlı global state & authentication yönetimi ile desteklenen bir arayüz yapısına sahiptir.
 
 ## 🔧 **Kurulum & Veritabanı Ayarları**
