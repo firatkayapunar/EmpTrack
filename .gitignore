@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+**/*.vsuo
+**/*.user
+**/*.suo
+**/*WorkspaceState.json
+
+# Databases & Index
+**/*.db
+**/*.db-shm
+**/*.db-wal
+**/*.vsidx
+**/*SemanticSymbols*
+**/*CodeChunks*
+**/*FileContentIndex*
+
+# Build output
+**/bin/
+**/obj/
+
+# SQLite
+**/*.sqlite
