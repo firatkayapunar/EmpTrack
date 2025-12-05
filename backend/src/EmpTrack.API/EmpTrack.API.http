@@ -1,0 +1,6 @@
+@EmpTrack.API_HostAddress = http://localhost:5101
+
+GET {{EmpTrack.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
