@@ -117,7 +117,7 @@ npm run dev</code></pre>
 ## <h2>🛠️ Kullanılan Teknolojiler ve Mimariler</h2>
 
 <ul> 
-  <li><strong>.NET 8</strong> – ASP.NET Core Web API altyapısı ile RESTful servis geliştirme</li> 
+  <li><strong>.NET 9</strong> – ASP.NET Core Web API altyapısı ile RESTful servis geliştirme</li> 
   <li><strong>Entity Framework Core</strong> – ORM katmanı (Code First yaklaşımı ile SQLite veritabanı entegrasyonu)</li> 
   <li><strong>SQLite</strong> – Hafif, dosya tabanlı veritabanı çözümü</li>
   <li><strong>MediatR</strong> – CQRS pattern implementasyonu için request/handler orchestration altyapısı</li> 
